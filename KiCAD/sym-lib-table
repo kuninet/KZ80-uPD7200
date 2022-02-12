@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name uPD7220)(type Legacy)(uri ${KIPRJMOD}/uPD7220.lib)(options "")(descr ""))
+  (lib (name Z80-CPUB-rescue)(type Legacy)(uri /Users/kuninet/git3/Z80_CPUB/KiCAD/Z80-CPUB-rescue.lib)(options "")(descr ""))
+)
